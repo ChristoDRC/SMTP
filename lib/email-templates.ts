@@ -42,14 +42,14 @@ export function getEmailTemplate(
           <body>
             <div class="container">
               <div class="header">
-                <h1>🎉 Welcome, ${name}!</h1>
+                <h1>Hola Profa Majo, ${name}!</h1>
               </div>
               <div class="content">
                 <p>Thank you for joining our platform. We're excited to have you on board!</p>
                 
                 <div class="alert alert-info">
-                  <strong>🚀 Getting Started:</strong><br>
-                  Your account has been successfully created and is ready to use.
+                  <strong>Estp es una simulación de correo para practicar:</strong><br>
+                  Aquí puedo escribir lo que quiera, por ejemplo: Empanadas.
                 </div>
                 
                 <p>Here's what you can do next:</p>
